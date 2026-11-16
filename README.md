@@ -35,6 +35,7 @@ Aqui eu documento os processos que uso no dia a dia, para quem quer ver como eu 
 
 - [Checklist de auditoria de pixel e eventos da Meta](https://github.com/DolbsK/checklist-auditoria-pixel-meta): o roteiro que eu sigo antes de mexer em verba ou criativo.
 - [Fluxo n8n: do formulário do site ao funil do WhatsApp](https://github.com/DolbsK/fluxo-n8n-lead-site-whatsapp): aviso na hora para a equipe, lead no funil sem duplicar e origem do anúncio gravada no card.
+- [Guia: venda real do CRM para a Meta pela API de Conversões](https://github.com/DolbsK/guia-venda-crm-meta-capi): como a campanha passa a aprender com quem compra, não só com quem chama.
 
 ## Contato
 
